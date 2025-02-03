@@ -11,6 +11,7 @@
 # 
 # It will write the new textgrids to the destination foler and print the same to the info window
 # to rewrite existing textgrids, provide the same input for source and destination.
+# Script by Megh Krishnaswamy, Last edtited on December 4, 2023
 ################################################################
 
 #Form for user input:

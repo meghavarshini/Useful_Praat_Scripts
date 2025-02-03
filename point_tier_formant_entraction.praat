@@ -10,6 +10,7 @@
 # 1) Extracts labels, timestamps and identifyers from a point tier
 # 2) Extract F1 and F2 in the points
 # 3) Save data to a csv file 
+# Script by Megh Krishnaswamy, Last edtited on December 4, 2023
 #################################################################################
 
 # form for user input:
